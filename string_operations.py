@@ -4,10 +4,10 @@ def reverse_string(a):
 def capitalize_string(a):
     
     return a.capitalize()
-def Lowercase_string(a):
+def lowercase_string(a):
     
     return a.lower()
-def Uppercase_stiring(a):
+def uppercase_string(a):
     
     return a.upper()
 
